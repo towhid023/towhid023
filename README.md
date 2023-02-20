@@ -11,31 +11,31 @@
 <h2>🚀 Skills</h2>
 <ul>
 <li>Programming languages: Java, Python, C++, JavaScript</li>
-<li>Web technologies: HTML, CSS, ReactJS, NodeJS, ExpressJS, MySQL, MongoDB</li>
-<li>Operating systems: Windows, Linux</li>
-<li>Development tools: Git, Visual Studio Code, Eclipse, Android Studio</li>
+<li>Web technologies: HTML, CSS</li>
+<li>Operating systems: Windows</li>
+<li>Development tools: Git, Visual Studio Code </li>
 </ul>
 
-<h2>💻 Projects</h2>
+<!-- <h2>💻 Projects</h2>
 <ul>
 <li><a href="https://github.com/yourusername/projectname">Project name</a> - Short project description</li>
 <li><a href="https://github.com/yourusername/projectname">Project name</a> - Short project description</li>
 <li><a href="https://github.com/yourusername/projectname">Project name</a> - Short project description</li>
-</ul>
+</ul> -->
 
 <h2>🌱 I'm currently learning</h2>
 <ul>
-<li>Deep Learning</li>
-<li>Data Science</li>
+<li>Problem Solving</li>
+<!-- <li>Data Science</li>
 <li>Machine Learning</li>
-<li>Natural Language Processing</li>
+<li>Natural Language Processing</li> -->
 </ul>
 
 <h2>📫 How to reach me</h2>
 <ul>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">Your LinkedIn Profile Link</a></li>
-<li>Twitter: <a href="https://twitter.com/yourusername">@YourTwitterHandle</a></li>
-<li>Email: <a href="mailto:youremail@gmail.com">Your Email</a></li>
+<!-- <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">Your LinkedIn Profile Link</a></li> -->
+<!-- <li>Twitter: <a href="https://twitter.com/yourusername">@YourTwitterHandle</a></li> -->
+<li>Email: <a href="mailto: towhidul.cse.cuet@gmail.com">Your Email</a></li>
 </ul>
 
 <p>Feel free to get in touch with me if you have any questions, suggestions or just want to say hi. I'm always happy to meet new people and collaborate on interesting projects.</p>
