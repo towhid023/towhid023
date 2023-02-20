@@ -35,7 +35,7 @@
 <ul>
 <!-- <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">Your LinkedIn Profile Link</a></li> -->
 <!-- <li>Twitter: <a href="https://twitter.com/yourusername">@YourTwitterHandle</a></li> -->
-<li>Email: <a href="mailto: towhidul.cse.cuet@gmail.com">Towhidul Islam</a></li>
+<li>Email: <a href="mailto: towhidul.cse.cuet@gmail.com">towhidul.cse.cuet@gmail.com</a></li>
   <li>Facebook: <a href="https://www.facebook.com/profile.php?id=100034586922784">Towhidul Islam </a></li>
 </ul>
 
