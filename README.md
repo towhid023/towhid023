@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Towhidul Islam's GitHub Profile</title>
+<!-- <title>Towhidul Islam's GitHub Profile</title> -->
 </head>
 <body>
 <h1>Hi, I'm Towhidul Islam 👋</h1>
