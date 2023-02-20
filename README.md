@@ -35,7 +35,7 @@
 <ul>
 <!-- <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">Your LinkedIn Profile Link</a></li> -->
 <!-- <li>Twitter: <a href="https://twitter.com/yourusername">@YourTwitterHandle</a></li> -->
-<li>Email: <a href="mailto: towhidul.cse.cuet@gmail.com">Your Email</a></li>
+<li>Email: <a href="mailto: towhidul.cse.cuet@gmail.com">towhidul.cse.cuet@gmail.com</a></li>
 </ul>
 
 <p>Feel free to get in touch with me if you have any questions, suggestions or just want to say hi. I'm always happy to meet new people and collaborate on interesting projects.</p>
