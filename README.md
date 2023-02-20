@@ -10,7 +10,7 @@
 
 <h2>🚀 Skills</h2>
 <ul>
-<li>Programming languages: Java, Python, C++, JavaScript</li>
+<li>Programming languages: C, C++</li>
 <li>Web technologies: HTML, CSS</li>
 <li>Operating systems: Windows</li>
 <li>Development tools: Git, Visual Studio Code </li>
